@@ -38,6 +38,8 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```bash
    docker run musicplayer
    ```
+   
+[TEST](https://heroku.com/deploy)
 
 ## Credits
 
