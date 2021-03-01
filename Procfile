@@ -1,0 +1,1 @@
+worker: cat heroku.yml
